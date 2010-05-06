@@ -1,6 +1,8 @@
 ExceptionLogger
 ===============
 
+jpravetz - forked to get around a restful-auth issue
+
 The Exception Logger (forgive the horrible name) logs your Rails exceptions in the database and provides a funky web interface to manage them.
 
 First you need to generate the migration:
